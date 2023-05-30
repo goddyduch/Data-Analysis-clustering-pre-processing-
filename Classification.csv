@@ -1,0 +1,128 @@
+Category;tes;test;Attribut
+Class. data;state;@attribute state numeric;state numeric
+Class. data;i ;@attribute county numeric;county numeric
+Class. data;community;@attribute community numeric;community numeric
+Class. data;communityname;@attribute communityname string;communityname string
+Stat;fold;@attribute fold numeric;fold numeric
+Class. data;Population;@attribute population numeric;population numeric
+Class. data;householdsize;@attribute householdsize numeric;householdsize numeric
+Race;racepctblack;@attribute racepctblack numeric;racepctblack numeric
+Race;racePctWhite;@attribute racePctWhite numeric;racePctWhite numeric
+Race;racePctAsian;@attribute racePctAsian numeric;racePctAsian numeric
+Race;racePctHisp;@attribute racePctHisp numeric;racePctHisp numeric
+Age ;agePct12t21;@attribute agePct12t21 numeric;agePct12t21 numeric
+Age ;agePct12t29;@attribute agePct12t29 numeric;agePct12t29 numeric
+Age ;agePct16t24;@attribute agePct16t24 numeric;agePct16t24 numeric
+Age ;agePct65up;@attribute agePct65up numeric;agePct65up numeric
+Class. data;numbUrban;@attribute numbUrban numeric;numbUrban numeric
+Class. data;pctUrban;@attribute pctUrban numeric;pctUrban numeric
+Wage Cat.;medIncome;@attribute medIncome numeric;medIncome numeric
+Wage Cat.;pctWWage;@attribute pctWWage numeric;pctWWage numeric
+Wage Cat.;pctWFarmSelf;@attribute pctWFarmSelf numeric;pctWFarmSelf numeric
+Wage Cat.;pctWInvInc;@attribute pctWInvInc numeric;pctWInvInc numeric
+Wage Cat.;pctWSocSec;@attribute pctWSocSec numeric;pctWSocSec numeric
+Wage Cat.;pctWPubAsst;@attribute pctWPubAsst numeric;pctWPubAsst numeric
+Wage Cat.;pctWRetire;@attribute pctWRetire numeric;pctWRetire numeric
+Wage Cat.;medFamInc;@attribute medFamInc numeric;medFamInc numeric
+Rev. dist.;perCapInc;@attribute perCapInc numeric;perCapInc numeric
+Rev. dist.;whitePerCap;@attribute whitePerCap numeric;whitePerCap numeric
+Rev. dist.;blackPerCap;@attribute blackPerCap numeric;blackPerCap numeric
+Rev. dist.;indianPerCap;@attribute indianPerCap numeric;indianPerCap numeric
+Rev. dist.;AsianPerCap;@attribute AsianPerCap numeric;AsianPerCap numeric
+Rev. dist.;OtherPerCap;@attribute OtherPerCap numeric;OtherPerCap numeric
+Rev. dist.;HispPerCap;@attribute HispPerCap numeric;HispPerCap numeric
+Poverty metrics;NumUnderPov;@attribute NumUnderPov numeric;NumUnderPov numeric
+Poverty metrics;PctPopUnderPov;@attribute PctPopUnderPov numeric;PctPopUnderPov numeric
+Poverty metrics;PctLess9thGrade;@attribute PctLess9thGrade numeric;PctLess9thGrade numeric
+Poverty metrics;PctNotHSGrad;@attribute PctNotHSGrad numeric;PctNotHSGrad numeric
+Poverty metrics;PctBSorMore;@attribute PctBSorMore numeric;PctBSorMore numeric
+Poverty metrics;PctUnemployed;@attribute PctUnemployed numeric;PctUnemployed numeric
+Poverty metrics;PctEmploy;@attribute PctEmploy numeric;PctEmploy numeric
+Poverty metrics;PctEmplManu;@attribute PctEmplManu numeric;PctEmplManu numeric
+Poverty metrics;PctEmplProfServ;@attribute PctEmplProfServ numeric;PctEmplProfServ numeric
+Poverty metrics;PctOccupManu;@attribute PctOccupManu numeric;PctOccupManu numeric
+Poverty metrics;PctOccupMgmtProf;@attribute PctOccupMgmtProf numeric;PctOccupMgmtProf numeric
+Marital metrics;MalePctDivorce;@attribute MalePctDivorce numeric;MalePctDivorce numeric
+Marital metrics;MalePctNevMarr;@attribute MalePctNevMarr numeric;MalePctNevMarr numeric
+Marital metrics;FemalePctDiv;@attribute FemalePctDiv numeric;FemalePctDiv numeric
+Marital metrics;TotalPctDiv;@attribute TotalPctDiv numeric;TotalPctDiv numeric
+Marital metrics;PersPerFam;@attribute PersPerFam numeric;PersPerFam numeric
+Marital metrics;PctFam2Par;@attribute PctFam2Par numeric;PctFam2Par numeric
+Marital metrics;PctKids2Par;@attribute PctKids2Par numeric;PctKids2Par numeric
+Marital metrics;PctYoungKids2Par;@attribute PctYoungKids2Par numeric;PctYoungKids2Par numeric
+Marital metrics;PctTeen2Par;@attribute PctTeen2Par numeric;PctTeen2Par numeric
+Marital metrics;PctWorkMomYoungKids;@attribute PctWorkMomYoungKids numeric;PctWorkMomYoungKids numeric
+Marital metrics;PctWorkMom;@attribute PctWorkMom numeric;PctWorkMom numeric
+Marital metrics;NumIlleg;@attribute NumIlleg numeric;NumIlleg numeric
+Marital metrics;PctIlleg;@attribute PctIlleg numeric;PctIlleg numeric
+Immigration metrics;NumImmig;@attribute NumImmig numeric;NumImmig numeric
+Immigration metrics;PctImmigRecent;@attribute PctImmigRecent numeric;PctImmigRecent numeric
+Immigration metrics;PctImmigRec5;@attribute PctImmigRec5 numeric;PctImmigRec5 numeric
+Immigration metrics;PctImmigRec8;@attribute PctImmigRec8 numeric;PctImmigRec8 numeric
+Immigration metrics;PctImmigRec10;@attribute PctImmigRec10 numeric;PctImmigRec10 numeric
+Immigration metrics;PctRecentImmig;@attribute PctRecentImmig numeric;PctRecentImmig numeric
+Immigration metrics;PctRecImmig5;@attribute PctRecImmig5 numeric;PctRecImmig5 numeric
+Immigration metrics;PctRecImmig8;@attribute PctRecImmig8 numeric;PctRecImmig8 numeric
+Immigration metrics;PctRecImmig10;@attribute PctRecImmig10 numeric;PctRecImmig10 numeric
+Immigration metrics;PctSpeakEnglOnly;@attribute PctSpeakEnglOnly numeric;PctSpeakEnglOnly numeric
+Immigration metrics;PctNotSpeakEnglWell;@attribute PctNotSpeakEnglWell numeric;PctNotSpeakEnglWell numeric
+Size of menages;PctLargHouseFam;@attribute PctLargHouseFam numeric;PctLargHouseFam numeric
+Size of menages;PctLargHouseOccup;@attribute PctLargHouseOccup numeric;PctLargHouseOccup numeric
+Size of menages;PersPerOccupHous;@attribute PersPerOccupHous numeric;PersPerOccupHous numeric
+Size of menages;PersPerOwnOccHous;@attribute PersPerOwnOccHous numeric;PersPerOwnOccHous numeric
+Size of menages;PersPerRentOccHous;@attribute PersPerRentOccHous numeric;PersPerRentOccHous numeric
+Type de menage;PctPersOwnOccup;@attribute PctPersOwnOccup numeric;PctPersOwnOccup numeric
+Type de menage;PctPersDenseHous;@attribute PctPersDenseHous numeric;PctPersDenseHous numeric
+Type de menage;PctHousLess3BR;@attribute PctHousLess3BR numeric;PctHousLess3BR numeric
+Type de menage;MedNumBR;@attribute MedNumBR numeric;MedNumBR numeric
+Type de menage;HousVacant;@attribute HousVacant numeric;HousVacant numeric
+Type de menage;PctHousOccup;@attribute PctHousOccup numeric;PctHousOccup numeric
+Type de menage;PctHousOwnOcc;@attribute PctHousOwnOcc numeric;PctHousOwnOcc numeric
+Type de menage;PctVacantBoarded;@attribute PctVacantBoarded numeric;PctVacantBoarded numeric
+Type de menage;PctVacMore6Mos;@attribute PctVacMore6Mos numeric;PctVacMore6Mos numeric
+Type de menage;MedYrHousBuilt;@attribute MedYrHousBuilt numeric;MedYrHousBuilt numeric
+Type de menage;PctHousNoPhone;@attribute PctHousNoPhone numeric;PctHousNoPhone numeric
+Type de menage;PctWOFullPlumb;@attribute PctWOFullPlumb numeric;PctWOFullPlumb numeric
+Type de menage;OwnOccLowQuart;@attribute OwnOccLowQuart numeric;OwnOccLowQuart numeric
+Type de menage;OwnOccMedVal;@attribute OwnOccMedVal numeric;OwnOccMedVal numeric
+Type de menage;OwnOccHiQuart;@attribute OwnOccHiQuart numeric;OwnOccHiQuart numeric
+Type de menage;RentLowQ;@attribute RentLowQ numeric;RentLowQ numeric
+Type de menage;RentMedian;@attribute RentMedian numeric;RentMedian numeric
+Type de menage;RentHighQ;@attribute RentHighQ numeric;RentHighQ numeric
+Poverty metrics;MedRent ;@attribute MedRent numeric;MedRent numeric
+Poverty metrics;MedRentPctHousInc ;@attribute MedRentPctHousInc numeric;MedRentPctHousInc numeric
+Poverty metrics;MedOwnCostPctInc ;@attribute MedOwnCostPctInc numeric;MedOwnCostPctInc numeric
+Poverty metrics;MedOwnCostPctIncNoMtg ;@attribute MedOwnCostPctIncNoMtg numeric;MedOwnCostPctIncNoMtg numeric
+Type de menage;NumInShelters ;@attribute NumInShelters numeric;NumInShelters numeric
+Type de menage;NumStreet ;@attribute NumStreet numeric;NumStreet numeric
+Immigration metrics;PctForeignBorn;@attribute PctForeignBorn numeric;PctForeignBorn numeric
+Immigration metrics;PctBornSameState ;@attribute PctBornSameState numeric;PctBornSameState numeric
+Immigration metrics;PctSameHouse85 ;@attribute PctSameHouse85 numeric;PctSameHouse85 numeric
+Immigration metrics;PctSameCity85 ;@attribute PctSameCity85 numeric;PctSameCity85 numeric
+Immigration metrics;PctSameState85 ;@attribute PctSameState85 numeric;PctSameState85 numeric
+Police data;LemasSwornFT ;@attribute LemasSwornFT numeric;LemasSwornFT numeric
+Police data;LemasSwFTPerPop ;@attribute LemasSwFTPerPop numeric;LemasSwFTPerPop numeric
+Police data;LemasSwFTFieldOps ;@attribute LemasSwFTFieldOps numeric;LemasSwFTFieldOps numeric
+Police data;LemasSwFTFieldPerPop ;@attribute LemasSwFTFieldPerPop numeric;LemasSwFTFieldPerPop numeric
+Police data;LemasTotalReq;@attribute LemasTotalReq numeric;LemasTotalReq numeric
+Police data;LemasTotReqPerPop ;@attribute LemasTotReqPerPop numeric;LemasTotReqPerPop numeric
+Police data;PolicReqPerOffic;@attribute PolicReqPerOffic numeric;PolicReqPerOffic numeric
+Police data;PolicPerPop ;@attribute PolicPerPop numeric;PolicPerPop numeric
+Police data;RacialMatchCommPol ;@attribute RacialMatchCommPol numeric;RacialMatchCommPol numeric
+Police data;PctPolicWhite ;@attribute PctPolicWhite numeric;PctPolicWhite numeric
+Police data;PctPolicBlack ;@attribute PctPolicBlack numeric;PctPolicBlack numeric
+Police data;PctPolicHisp;@attribute PctPolicHisp numeric;PctPolicHisp numeric
+Police data;PctPolicAsian ;@attribute PctPolicAsian numeric;PctPolicAsian numeric
+Police data;PctPolicMinor ;@attribute PctPolicMinor numeric;PctPolicMinor numeric
+Police data;OfficAssgnDrugUnits;@attribute OfficAssgnDrugUnits numeric;OfficAssgnDrugUnits numeric
+Police data;NumKindsDrugsSeiz ;@attribute NumKindsDrugsSeiz numeric;NumKindsDrugsSeiz numeric
+Police data;PolicAveOTWorked;@attribute PolicAveOTWorked numeric;PolicAveOTWorked numeric
+Police data;LandArea ;@attribute LandArea numeric;LandArea numeric
+Police data;PopDens ;@attribute PopDens numeric;PopDens numeric
+Police data;PctUsePubTrans ;@attribute PctUsePubTrans numeric;PctUsePubTrans numeric
+Police data;PolicCars ;@attribute PolicCars numeric;PolicCars numeric
+Police data;PolicOperBudg ;@attribute PolicOperBudg numeric;PolicOperBudg numeric
+Police data;LemasPctPolicOnPatr ;@attribute LemasPctPolicOnPatr numeric;LemasPctPolicOnPatr numeric
+Police data;LemasGangUnitDeploy ;@attribute LemasGangUnitDeploy numeric;LemasGangUnitDeploy numeric
+Police data;LemasPctOfficDrugUn ;@attribute LemasPctOfficDrugUn numeric;LemasPctOfficDrugUn numeric
+Police data;PolicBudgPerPop ;@attribute PolicBudgPerPop numeric;PolicBudgPerPop numeric
